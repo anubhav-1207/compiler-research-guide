@@ -1,0 +1,13 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*~
+*.swp
+.idea/
+.vscode/
+
+# Build output, in case the repo grows artifacts later
+/target/
+/build/
+/dist/
+*.pdf
